@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="size">set Size</string>
+    <string name="ergebnisse">Ergebnisse:</string>
+
+    <string-array name="sizes">
+        <item>Select Size</item>
+        <item>2x3</item>
+        <item>3x4</item>
+        <item>4x5</item>
+        <item>5x6</item>
+    </string-array>
+
+</resources>
